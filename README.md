@@ -1,7 +1,7 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: Thomas Kinch
+Name: Thomas  Kinch
 
 ONID ID: 932041112
 
