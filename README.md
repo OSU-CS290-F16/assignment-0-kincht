@@ -5,7 +5,7 @@ Name: Thomas Kinch
 
 ONID ID: 932041112
 
-Link to my CS 290 page: file:///Z:/cs290/a0.html
+Link to my CS 290 page: http://web.engr.oregonstate.edu/~kincht/
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
